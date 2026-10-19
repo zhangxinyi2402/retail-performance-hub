@@ -1,0 +1,10 @@
+:root {
+ --color-dark:#111111; --color-dark-surface:#181818; --color-light:#F4F1EA; --color-surface:#FFFFFF;
+ --color-text-dark:#161616; --color-text-light:#F3EFE6; --color-text-secondary:#7E7A73; --brand-primary:#B39A6B;
+ --color-border:#DED8CE; --color-muted-red:#9C625B; --color-muted-green:#6F8573; --color-muted-amber:#A88954;
+ --radius-xs:2px; --radius-sm:4px; --radius-md:6px; --radius-lg:8px;
+ --space-0-5:4px; --space-1:8px; --space-2:16px; --space-3:24px; --space-4:32px; --space-5:48px; --space-6:64px; --space-7:96px; --space-8:120px;
+ --content-max-width:1520px; --sidebar-width:200px; --workbench-gap:24px;
+ --font-display:'Cormorant Garamond',Georgia,serif; --font-ui:Inter,Arial,Helvetica,sans-serif;
+ --border-dark:rgba(255,255,255,.16); --shadow-subtle:0 4px 20px rgba(0,0,0,.06);
+}
